@@ -13,5 +13,5 @@ response = urllib.request.urlopen(request)
 content = response.read().decode('UTF-8')
 
 # 3.保存数据
-with open('../res/db.json', 'w', encoding='utf-8') as fp:
+with open('../res/douban/db.json', 'w', encoding='utf-8') as fp:
     fp.write(content)
