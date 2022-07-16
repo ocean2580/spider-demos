@@ -1,0 +1,17 @@
+{
+  "Table": [
+    {
+      "rowcount": 21
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 21,
+      "storeName": "长胜园餐厅",
+      "addressDetail": "南昌高新技术产业开发区紫阳大道99号江西师范大学瑶湖校区长胜园1楼东侧店面",
+      "pro": "手机点餐",
+      "provinceName": "江西省",
+      "cityName": "南昌市"
+    }
+  ]
+}
